@@ -422,7 +422,7 @@ the blockchain network is known as oraclization. An oracle provides a
 service which integrates outside data onto the blockchain and is
 required for much of the most interesting use cases of smart contracts.
 
-# References
+# Interesting Reads
 - https://www.coindesk.com/information/how-do-bitcoin-transactions-work/
 - https://www.coindesk.com/information/how-bitcoin-mining-works/
 - https://bitcoin.stackexchange.com/questions/1600/where-are-the-users-bitcoins-actually-stored/1604\#1604?newreg=934ac833da9c4d86b322046a960e4ced
